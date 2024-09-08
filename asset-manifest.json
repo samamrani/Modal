@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/samamrani-Modal/static/css/main.393e353c.css",
+    "main.js": "/samamrani-Modal/static/js/main.cb420378.js",
+    "index.html": "/samamrani-Modal/index.html",
+    "main.393e353c.css.map": "/samamrani-Modal/static/css/main.393e353c.css.map",
+    "main.cb420378.js.map": "/samamrani-Modal/static/js/main.cb420378.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.393e353c.css",
+    "static/js/main.cb420378.js"
+  ]
+}
